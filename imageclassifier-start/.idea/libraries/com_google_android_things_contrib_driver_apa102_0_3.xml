@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.google.android.things.contrib:driver-apa102-0.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/driver-apa102-0.3.aar/1279da5b7acf50ab7a1299b4de014d9b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/driver-apa102-0.3.aar/1279da5b7acf50ab7a1299b4de014d9b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.things.contrib/driver-apa102/0.3/4ed8b6c00cb6fe53e2bbb61051b9ab8da9926bf8/driver-apa102-0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
